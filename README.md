@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm Adrian 👋
 
-<!--
-**adriansnelling/adriansnelling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer focused on **AI product engineering** — building LLM-powered features, MCP integrations, and edtech AI at [Studocu](https://studocu.com).
 
-Here are some ideas to get you started:
+Previously engineering management, now back in the IC trenches where the fun is.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm working on
+
+- 🤖 **AI Foundations @ Studocu** — MCP server, AgentOS, RAG pipelines, LangGraph agents
+- 🃏 **[Birdz](https://github.com/adriansnelling/Birdz)** — Australian bird card game with a neon cel-shaded aesthetic
+- 🪖 **[Helmet Reveal Lab](https://github.com/adriansnelling/helmet-reveal-lab)** — F1 helmet overlay app using Three.js + face landmark detection
+- 🐍 Learning Python, LangChain, and LangGraph and more
+
+---
+
+## Stack
+
+**Frontend** · React · Next.js · TypeScript · SCSS · Tailwind
+**AI/ML** · OpenAI · RAG · LangChain · LangGraph · Milvus · MCP  
+**Backend** · PHP · Laravel · Node.js  
+**Tooling** · Playwright · Mixpanel · Grafana · OpenSearch
+
+---
+
+## Elsewhere
+
+- 🌐 [adriansnelling.dev](https://adriansnelling.dev)
